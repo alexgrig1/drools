@@ -6,7 +6,7 @@
 FROM jboss/wildfly:14.0.1.Final
 
 ####### MAINTAINER ############
-MAINTAINER "Michael Biarnes Kiefer" "mbiarnes@redhat.com"
+# MAINTAINER "Michael Biarnes Kiefer" "mbiarnes@redhat.com"
 
 ####### ENVIRONMENT ############
 ENV JBOSS_BIND_ADDRESS 0.0.0.0

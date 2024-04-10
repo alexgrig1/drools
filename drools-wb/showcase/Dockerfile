@@ -6,7 +6,7 @@
 FROM jboss/drools-workbench:7.18.0.Final
 
 ####### MAINTAINER ############
-MAINTAINER "Michael Biarnes Kiefer" "mbiarnes@redhat.com"
+# MAINTAINER "Michael Biarnes Kiefer" "mbiarnes@redhat.com"
 
 ####### ENVIRONMENT ############
 # Use demo and examples by default in this showcase image (internet connection required).
